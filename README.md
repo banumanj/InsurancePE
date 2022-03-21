@@ -2,7 +2,7 @@
 This framework is based on BDD
 
 ## Quick setup
-- Java 8 
+- Java 
 - Install IDE (e.g. Intelij Idea)
 - Clone the repo
  
@@ -25,9 +25,9 @@ Tech stack used:
 ## Next steps
 
 The next steps to improve the framework may include:
-- Add more BDD tests (Gherkin language). Cucumber
-- In the feature files, add addtion edge cases
-- Add Jenkinsfile (or another CI file to manage CI/CD process)
+- Add more BDD tests (Gherkin language)
+- In the feature files add addtional edge cases
+- Add .yml file to manage CI/CD process
 
 Test Results :
 ![image](https://user-images.githubusercontent.com/61667828/159281703-c93d3f88-dc66-4e0f-a84b-c56a734768f5.png)
